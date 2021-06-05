@@ -43,7 +43,7 @@
   
 ✅ Messages are dynamic means they contain names of each contact you provide and can be changed according to your data like location, college name, company name, etc. This makes the message specific to the receiver.
   
-✅ Can be used for spamming your **BEST** friend. You can but please don't. (Spam me and I will release all your stickers and memes)  
+✅ Can be used for spamming your **BEST** friend. You can but please don't. (If you are reading this you know what I will do if You spam me)  
   
 ✅ Colorful CLI/UI. (Command Line Interface)/(User Interface)
   
@@ -57,7 +57,7 @@
 
 # Installation
 
-[Windows](https://github.com/topics/windows) : Press Win + X key and open Command Prompt and paste the codes given below one by one.
+[Windows](https://github.com/topics/windows) : Press Win + X key and open Command Prompt and paste the codes given below one by one. (First You need to install Python)
 
 [Linux](https://github.com/topics/linux) : Do I need to tell You ???
 
@@ -112,7 +112,7 @@
   
   You Need To Download Your Browsers Driver From Sites Given Below 
   
-  >***IMPORTANT*** - Check Version Carefully
+  ***IMPORTANT*** - Check Version Carefully
  
   | Browser Name | Driver Download Link | 
   | :-: | :-: |
