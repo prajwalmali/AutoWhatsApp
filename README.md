@@ -1,17 +1,59 @@
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<p align="right"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>  
+  
+<a href="https://img.shields.io/badge/coverage-80%25-yellowgreen" target="_blank"><img src="https://img.shields.io/badge/coverage-73%25-yellowgreen" alt="python" /> <a href="https://img.shields.io/badge/maintained-yes-blue" target="_blank"><img src="https://img.shields.io/badge/maintained-yes-blue" alt="python" />
 
 <p align="center"> <img src="https://images.news18.com/ibnlive/uploads/2019/03/whatsapp-logo.jpg" alt="prajwalcybergod" width="300" height="200" /> </p>
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <ol>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#features">Features</a>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#installation">Installation</a>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#requirements">Requirements</a>
+      <ul>
+        <li><a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#python-modules">Python Modules</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#browser-driver">Browser Driver</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#glimpse">Glimpse</a>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#for-contributing">For Contributing</a>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#license">License</a>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#contact">Contact</a>
+    </li>
+  </ol>
+</details>
+  
 # Features
 
-- [x] Can send messages or attachments to list of contacts or groups just by running the program.
-- [x] Messages are dynamic means they contain names of each contact you provide and can be changed according to your data like location, college name, company name, etc. This makes the message specific to the receiver.
-- [x] Can be used for spamming your **BEST** friend. (Spam me and I will release all your stickers and memes)  
-- [x] Colorful CLI/UI. (Command Line Interface)/(User Interface)
-- [x] Well Documented, Commented and Instructed. (Read all comments in the code for it's working and possible customizations and also read all instructions in the excel sheet to use the program to it's full)
-- [x] Totally ***CUSTOMIZABLE***  
-- [ ] Making or leaving or deleting groups, adding or making someone admin or removing participants, joining groups or adding group descriptions or adding status, etc.
-- [ ] Annalyzing messages and replying to messages automatically.
+✅ Can send messages or attachments to list of contacts or groups just by running the program.
+  
+✅ Messages are dynamic means they contain names of each contact you provide and can be changed according to your data like location, college name, company name, etc. This makes the message specific to the receiver.
+  
+✅ Can be used for spamming your **BEST** friend. You can but please don't. (Spam me and I will release all your stickers and memes)  
+  
+✅ Colorful CLI/UI. (Command Line Interface)/(User Interface)
+  
+✅ Well Documented, Commented and Instructed. (Read all comments in the code for it's working and possible customizations and also read all instructions in the excel sheet to use the program to it's full)
+  
+✅ Totally ***CUSTOMIZABLE***  
+  
+❌ Creating or leaving or deleting groups, adding or making someone admin or removing participants, joining groups or adding group descriptions or adding status, etc.
+  
+❌ Annalyzing messages and replying to messages automatically.
 
 # Installation
 
@@ -78,6 +120,10 @@
   | Firefox | https://github.com/mozilla/geckodriver/releases |
   | Edge | https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver |
   | Safari | https://webkit.org/blog/6900/webdriver-support-in-safari-10 |
+
+# Glimpse
+
+<p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/AutoWhatsApp.gif" alt="prajwalcybergod" width="600" height="400" /> </p>
   
 # For Contributing
 
