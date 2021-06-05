@@ -1,10 +1,10 @@
 '''
 
-Ultimate WhatsApp Automation
+AutoWhatsApp
 
-Repo Owner :- PrajwalCyberGod
+Repo Owner :- https://github.com/PrajwalCyberGod/PrajwalCyberGod
 
-https://www.linkedin.com/in/prajwalmali
+LinkedIn Profile :- https://www.linkedin.com/in/prajwalmali
 
 '''
 
