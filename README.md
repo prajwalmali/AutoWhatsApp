@@ -23,6 +23,15 @@
     </li>
     <li>
       <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#instructions">Instructions</a>
+      <ul>
+        <li><a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#instructions-from-the-code">Instructions From The Code</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#instructions-from-excel-sheet">Instructions From Excel Sheet</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#step-by-step-guide">Step By Step Guide</a>
     </li>
     <li>
       <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#glimpse">Glimpse</a>
@@ -134,6 +143,80 @@
 3. Closing all browser tabs will be better. You can use different browser other than the browser driver you are using for automated browser window. 
 4. When the program is runned for the first time it takes some time for saving the session data (Scan QR Code only once feature). 
 5. If the message is not sent try to re-run or You can adjust sleep time according to your needs. 
+
+* ## Instructions From The Code
+
+ 1. message = excel_data['Message'][0] (line 192 and 492)
+
+	  message = excel_data['Message'][count] (line 194 and 494)
+  
+    1st Line Of Code Is To Send One Message Dynamically To List Of Contacts 
+	  2nd Line Of Code Is To Send Separate Dynamic Message To Respective Contact In The Name Column
+    
+	  ***IMPORTANT***  Comment Out Anyone Of The Line (give # to any one line )
+  
+ 2. Load Error Message If Contact Number Is Unavailable/Wrong 
+		(Currently Only Saved Contact Numbers Are Supported BUT, 
+		You Can Use This Program To AUTOMATE Message For Those Unsaved Contacts 
+		To Whom You Have Texted Atleast One Message Like HI Or Anything Else)
+     
+ 3. Format The Message From Excel 
+		(Make The Message Dynamic Or Specific To The Receiver By Adding His/Her/Others Name. 
+		You Can Also Make It Specific In Your Own Way By Adding Other Data Instead Of Name 
+		Such As Company Name, College Name, Location, Etc. MORE DATA MORE SPECIFIC)
+     
+* ## Instructions From Excel Sheet
+
+ 1. In name column you don’t need to write exact name as contact name you can also write nickname or anything if you want to this name will be displayed instead of {name} in the     message note that {name} can be changed to anything in the message like {game} but you also need to change this in the source code
+    the line will be message = message.replace('{name}', column) (line 247 and 547) search for it.
+    
+ 2. You can totally customize the program as you want according to your data like if you have more data such as location or company name or college name you can add that column in this table and dynamically add that data in the message as {location}, {company_name}, {college_name} you will understand this when you read the code and all it's comment I have mentioned everything.
+
+ 3. In contact column you can add no. like :- 
+
+    1234567899
+
+    12345 67899
+
+    911234567899
+
+    91 1234567899
+
+    91 12345 67899
+
+    9 1 12 345 678 99
+
+    any of this will work but don't add + (plus symbol) as excel doesn’t allow this you can try if you don’t believe me.
+
+ 4. You can also add names of your contact in contact column if you don’t remember their contact no.s
+but be sure their names are unique that will be better and its not necessary that you type their name accurately but it will be better if it's accurate. contact no. will be best option.
+
+ 5. Type the group name in Contact column if you want to send message or attachment in the group.
+  
+ 6. Finally in message column you can keep one message for everyone by this code its default message = excel_data['Message'][0] (line 192 and 492) or else different messages for everyone in the list by this code by removing the # from that line message = excel_data['Message'][count] (line 194 and 494)
+*** IMPORTANT *** - Comment Out Any One Of The Line (give # to any one line )
+ 
+ 7. You can also spam a contact or group by dragging his name and contact in the column multiple times.
+ 
+ 8. For sending attachments you need to give the path location in the program.
+ 
+# Step By Step Guide
+
+1. Fill the names of contact and their contact no. and the message you want to send in the excel sheet named demo.xlsx in the respective columns. Customize as you wish.
+2. In the code, change the path for browser driver which is C:\\Program Files\\Google\\Chrome Driver\\chromedriver.exe, (line 119)
+
+   for User Data folder where the session data will be saved for Scan QR Code only once feature which is C:\\Prajwal\\Python\\AutoWhatsApp\\User Data (line 125)
+
+   and for the excel file from where data will be used in program which is C:\\Prajwal\\Python\\AutoWhatsApp\\demo.xlsx repeated 3 times. (line 175, 335, 475)
+
+   There are total 5 paths to be changed in the program.
+
+3. Before running the program read all instructions and comments, do any customizations if you want to as instructed in documentation. Also check that you have installed all python modules and your browser's driver.
+4. Double click on main.py or else run the program in command prompt by running this command :-
+```sh 
+python main.py
+```
+5. For sending attachments provide the path for that file.
 
 # Glimpse
 
