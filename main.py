@@ -132,8 +132,6 @@ while True:
 
 	cprint(logo,'green',attrs=['bold'])
 
-	# cprint('\n{}    *** Ultimate WhatsApp Automation ***'.format(space_count),'red',attrs=['bold'])
-
 	cprint('\n{}*** Programmed By Prajwal Vijaykumar Mali ***'.format(space_count),'green',attrs=['bold'])
 
 	cprint('\n\t1. Press 1 If You Want To Send A Message','cyan', attrs=['bold'])	
@@ -301,9 +299,7 @@ while True:
 	elif choice == 2:
 
 		cprint(logo,'green',attrs=['bold'])
-
-		# cprint('\n{}    *** Ultimate WhatsApp Automation ***'.format(space_count),'red',attrs=['bold'])
-
+		
 		cprint('\n{}*** Programmed By Prajwal Vijaykumar Mali ***'.format(space_count),'green',attrs=['bold'])
 
 		cprint('\n\tEnter the Attachment File Path You Want To Send : ','cyan', attrs=['bold'])
@@ -443,8 +439,6 @@ while True:
 	elif choice == 3:
 
 		cprint(logo,'green',attrs=['bold'])
-
-		# cprint('\n{}    *** Ultimate WhatsApp Automation ***'.format(space_count),'red',attrs=['bold'])
 
 		cprint('\n{}*** Programmed By Prajwal Vijaykumar Mali ***'.format(space_count),'green',attrs=['bold'])
 
