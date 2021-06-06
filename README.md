@@ -1,6 +1,13 @@
-<img src="https://img.shields.io/badge/coverage-87%25-yellowgreen" alt="python" /> <img src="https://img.shields.io/badge/maintained-yes-blue" alt="python" /> <img src="https://img.shields.io/badge/requirements.txt-uptodate-green" alt="python" />
-
 <p align="center"> <img src="https://images.news18.com/ibnlive/uploads/2019/03/whatsapp-logo.jpg" alt="prajwalcybergod" width="300" height="200" /> </p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/language-python3-yellow?style=plastic" alt="python" />
+	<img src="https://img.shields.io/badge/coverage-87%25-839?style=plastic" alt="python" /> 
+	<img src="https://img.shields.io/badge/maintained-yes-blue?style=plastic" alt="python" /> 
+	<img src="https://img.shields.io/badge/requirements.txt-uptodate-redyellow?style=plastic" alt="python" />
+	<a href="https://www.paypal.me/prajwalmalicybergod">
+    	 <img src="https://img.shields.io/badge/paypal-donate-orange.svg?maxAge=2592000&amp;style=plastic">
+        </a>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -48,7 +55,7 @@
   </ol>
 </details>
   
-# Features
+# [Features](#features)
 
 ✅ Can send messages or attachments to list of contacts or groups just by running the program.
 
@@ -56,6 +63,8 @@
 
 ✅ Messages are dynamic means they contain names of each contact you provide and can be changed according to your data like location, college name, company name, etc. This makes the message specific to the receiver.
   
+✅ Send one same message dynamically to list of contacts or send separate dynamic message to respective contact in the name column. Your choice.
+ 
 ✅ Can be used for spamming your **BEST** friend. You can but please don't. (If you are reading this you know what I will do if You spam me)  
   
 ✅ Colorful CLI/UI. (Command Line Interface)/(User Interface)
@@ -68,15 +77,15 @@
   
 ❌ Analyzing messages and replying to messages automatically.
 
-# Installation
+# [Installation](#installation)
 
 [Windows](https://github.com/topics/windows) : Press Win + X key and open Command Prompt and paste the codes given below one by one. (First You need to install Python)
 
 [Linux](https://github.com/topics/linux) : Do I need to tell You ???
 
-# Requirements
+# [Requirements](#requirements)
   
-* ## Python Modules
+* ## [Python Modules](#python-modules)
 
   Run these codes to install the modules required for the program to run.
   
@@ -121,7 +130,7 @@
   ``` 
   [click here](https://pypi.org/project/termcolor/) for more details, documentaion and installation guide.
 
-* ## Browser Driver
+* ## [Browser Driver](#browser-driver)
   
   You Need To Download Your Browsers Driver From Sites Given Below 
   
@@ -134,7 +143,7 @@
   | Edge | https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver |
   | Safari | https://webkit.org/blog/6900/webdriver-support-in-safari-10 |
 
-# Instructions
+# [Instructions](#instructions)
 
 - Read ***ALL INSTRUCTIONS*** given in the excel sheet and program code.
 
@@ -144,7 +153,7 @@
 4. When the program is runned for the first time it takes some time for saving the session data (Scan QR Code only once feature). 
 5. If the message is not sent try to re-run or You can adjust sleep time according to your needs. 
 
-* ## Instructions From The Code
+* ## [Instructions From The Code](#instructions-from-the-code)
 
  1. message = excel_data['Message'][0] (line 192 and 492)
 
@@ -165,7 +174,7 @@
 		You Can Also Make It Specific In Your Own Way By Adding Other Data Instead Of Name 
 		Such As Company Name, College Name, Location, Etc. MORE DATA MORE SPECIFIC)
      
-* ## Instructions From Excel Sheet
+* ## [Instructions From Excel Sheet](#instructions-from-excel-sheet)
 
  1. In name column you don’t need to write exact name as contact name you can also write nickname or anything if you want to this name will be displayed instead of {name} in the     message note that {name} can be changed to anything in the message like {game} but you also need to change this in the source code
     the line will be message = message.replace('{name}', column) (line 247 and 547) search for it.
@@ -185,6 +194,8 @@
     91 12345 67899
 
     9 1 12 345 678 99
+    
+    or anything else  
 
     any of this will work but don't add + (plus symbol) as excel doesn’t allow this you can try if you don’t believe me.
 
@@ -200,7 +211,7 @@ but be sure their names are unique that will be better and its not necessary tha
  
  8. For sending attachments you need to give the path location in the program.
  
-# Step By Step Guide
+# [Step By Step Guide](#step-by-step-guide)
 
 1. Fill the names of contact and their contact no. and the message you want to send in the excel sheet named demo.xlsx in the respective columns. Customize as you wish.
 2. In the code, change the path for browser driver which is C:\\Program Files\\Google\\Chrome Driver\\chromedriver.exe, (line 119)
@@ -218,11 +229,11 @@ python main.py
 ```
 5. For sending attachments provide the path for that file.
 
-# Glimpse
+# [Glimpse](#glimpse)
 
 <p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/AutoWhatsApp.gif" alt="prajwalcybergod" width="800" height="500" /> </p>
 
-# For Contributing
+# [For Contributing](#for-contributing)
 
 1. Fork it.
 2. Create your feature branch: git checkout -b my-new-feature.
@@ -232,11 +243,11 @@ python main.py
 
 **FEEL FREE TO ADD FEATURES TO THIS PROJECT THERE ARE MANY SPOTS TO IMPROVE.**
 
-# License
+# [License](#license)
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/LICENSE) file for details.
    
-# Contact
+# [Contact](#contact)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -249,5 +260,11 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 [myprofile-url]: https://github.com/PrajwalCyberGod/PrajwalCyberGod
  
 [myprofile-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=333
+
+[![PayPal][pay-shield]][pay-url]
+  
+[pay-url]: https://www.paypal.me/prajwalmalicybergod
+ 
+[pay-shield]: https://img.shields.io/badge/-PayPal-black.svg?style=for-the-badge&logo=paypal&colorB=037
   
 >***Prajwal Vijaykumar Mali*** - prajwalgithubpro@hotmail.com
