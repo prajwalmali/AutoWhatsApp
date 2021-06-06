@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/coverage-87%25-yellowgreen" alt="python" /> <img src="https://img.shields.io/badge/maintained-yes-blue" alt="python" />
+<img src="https://img.shields.io/badge/coverage-87%25-yellowgreen" alt="python" /> <img src="https://img.shields.io/badge/maintained-yes-blue" alt="python" /> <img src="https://img.shields.io/badge/requirements.txt-uptodate-green" alt="python" />
 
 <p align="center"> <img src="https://images.news18.com/ibnlive/uploads/2019/03/whatsapp-logo.jpg" alt="prajwalcybergod" width="300" height="200" /> </p>
 
