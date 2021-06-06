@@ -122,7 +122,7 @@ options = webdriver.ChromeOptions()
 
 # Save The Session Data (THIS IS NOT SAFE) (Need To Scan QR Code Only Once For The First Time) (Replace With Your Path) 
 
-options.add_argument("user-data-dir=C:\\Prajwal\\Python\\WhatsApp Automation\\User Data") # (For Security You Can Comment Out This Line)
+options.add_argument("user-data-dir=C:\\Prajwal\\Python\\AutoWhatsApp\\User Data") # (For Security You Can Comment Out This Line)
 
 while True:
 
@@ -172,7 +172,7 @@ while True:
 
 		# Read Data From Excel (Replace With Your Path) 
 
-		excel_data = pandas.read_excel("C:\\Prajwal\\Python\\WhatsApp Automation\\demo.xlsx")
+		excel_data = pandas.read_excel("C:\\Prajwal\\Python\\AutoWhatsApp\\demo.xlsx")
 
 		# Iterate Excel Rows From Start To End
 
@@ -332,7 +332,7 @@ while True:
 
 		# Read Data From Excel (Replace With Your Path) 
 
-		excel_data = pandas.read_excel("C:\\Prajwal\\Python\\WhatsApp Automation\\demo.xlsx")
+		excel_data = pandas.read_excel("C:\\Prajwal\\Python\\AutoWhatsApp\\demo.xlsx")
 
 		# Iterate Excel Rows From Start To End
 
@@ -472,7 +472,7 @@ while True:
 
 		# Read Data From Excel (Replace With Your Path) 
 
-		excel_data = pandas.read_excel("C:\\Prajwal\\Python\\WhatsApp Automation\\demo.xlsx")
+		excel_data = pandas.read_excel("C:\\Prajwal\\Python\\AutoWhatsApp\\demo.xlsx")
 
 		# Iterate Excel Rows From Start To End
 
