@@ -95,7 +95,7 @@
   ```sh 
   pip install pyperclip
   ``` 
-  [click here](https://pypi.org/project/pyperclip3/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/pyperclip/) for more details, documentaion and installation guide.
   
   ```sh 
   pip install openpyxl
