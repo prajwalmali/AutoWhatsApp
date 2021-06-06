@@ -1,10 +1,9 @@
-<p align="right"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>  
-  
-<a href="https://img.shields.io/badge/coverage-80%25-yellowgreen" target="_blank"><img src="https://img.shields.io/badge/coverage-73%25-yellowgreen" alt="python" /> <a href="https://img.shields.io/badge/maintained-yes-blue" target="_blank"><img src="https://img.shields.io/badge/maintained-yes-blue" alt="python" />
+<img src="https://img.shields.io/badge/coverage-73%25-yellowgreen" alt="python" /> <img src="https://img.shields.io/badge/maintained-yes-blue" alt="python" />
 
 <p align="center"> <img src="https://images.news18.com/ibnlive/uploads/2019/03/whatsapp-logo.jpg" alt="prajwalcybergod" width="300" height="200" /> </p>
 
 <!-- TABLE OF CONTENTS -->
+
 <details open="open">
   <ol>
     <li>
@@ -40,7 +39,9 @@
 # Features
 
 ✅ Can send messages or attachments to list of contacts or groups just by running the program.
-  
+
+✅ Scan QR Code only once.
+
 ✅ Messages are dynamic means they contain names of each contact you provide and can be changed according to your data like location, college name, company name, etc. This makes the message specific to the receiver.
   
 ✅ Can be used for spamming your **BEST** friend. You can but please don't. (If you are reading this you know what I will do if You spam me)  
@@ -53,7 +54,7 @@
   
 ❌ Creating or leaving or deleting groups, adding or making someone admin or removing participants, joining groups or adding group descriptions or adding status, etc.
   
-❌ Annalyzing messages and replying to messages automatically.
+❌ Analyzing messages and replying to messages automatically.
 
 # Installation
 
@@ -123,7 +124,7 @@
 
 # Glimpse
 
-<p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/AutoWhatsApp.gif" alt="prajwalcybergod" width="600" height="400" /> </p>
+<p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/AutoWhatsApp.gif" alt="prajwalcybergod" width="800" height="500" /> </p>
   
 # For Contributing
 
