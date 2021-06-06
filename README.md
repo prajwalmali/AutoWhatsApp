@@ -40,7 +40,7 @@
 
 ✅ Can send messages or attachments to list of contacts or groups just by running the program.
 
-✅ Scan QR Code only once.
+✅ Scan QR Code only once. (**NOT** **SAFE**) (For Security Concerns You Can Comment Out This Feature Code Line Mentioned In The Code) 
 
 ✅ Messages are dynamic means they contain names of each contact you provide and can be changed according to your data like location, college name, company name, etc. This makes the message specific to the receiver.
   
@@ -122,10 +122,20 @@
   | Edge | https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver |
   | Safari | https://webkit.org/blog/6900/webdriver-support-in-safari-10 |
 
+# Instructions
+
+- Read ***ALL INSTRUCTIONS*** given in the excel sheet and program code.
+
+1. When the program is running please don't click or type this may interrupt the program.
+2. Don't use WhatsApp when the program is running. 
+3. Closing all browser tabs will be better. You can use different browser other than the browser driver you are using for automated browser window. 
+4. When the program is runned for the first time it takes some time for saving the session data (Scan QR Code only once feature). 
+5. If the message is not sent try to re-run or You can adjust sleep time according to your needs. 
+
 # Glimpse
 
 <p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/AutoWhatsApp.gif" alt="prajwalcybergod" width="800" height="500" /> </p>
-  
+
 # For Contributing
 
 1. Fork it.
