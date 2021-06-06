@@ -1,13 +1,13 @@
 <p align="center"> <img src="https://images.news18.com/ibnlive/uploads/2019/03/whatsapp-logo.jpg" alt="prajwalcybergod" width="300" height="200" /> </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/language-python3-yellow?style=plastic" alt="python" />
-	<img src="https://img.shields.io/badge/coverage-93%25-839?style=plastic" alt="python" /> 
-	<img src="https://img.shields.io/badge/maintained-yes-blue?style=plastic" alt="python" /> 
-	<img src="https://img.shields.io/badge/requirements.txt-uptodate-redyellow?style=plastic" alt="python" />
-	<img src="https://img.shields.io/badge/vulnerability-0-red?style=plastic" alt="python" />
+	<img src="https://img.shields.io/badge/language-python3-yellow?style=flat" alt="python" />
+	<img src="https://img.shields.io/badge/coverage-93%25-839?style=flat" alt="python" /> 
+	<img src="https://img.shields.io/badge/maintained-yes-blue?style=flat" alt="python" /> 
+	<img src="https://img.shields.io/badge/requirements.txt-uptodate-redyellow?style=flat" alt="python" />
+	<img src="https://img.shields.io/badge/vulnerability-0-red?style=flat" alt="python" />
 	<a href="https://www.paypal.me/prajwalmalicybergod">
-    	 <img src="https://img.shields.io/badge/buy me a-shawarma-orange.svg?maxAge=2592000&amp;style=plastic">
+    	 <img src="https://img.shields.io/badge/buy me a-shawarma-orange.svg?maxAge=2592000&amp;style=flat">
         </a>
 
 <!-- TABLE OF CONTENTS -->
