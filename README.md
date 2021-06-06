@@ -5,6 +5,7 @@
 	<img src="https://img.shields.io/badge/coverage-93%25-839?style=plastic" alt="python" /> 
 	<img src="https://img.shields.io/badge/maintained-yes-blue?style=plastic" alt="python" /> 
 	<img src="https://img.shields.io/badge/requirements.txt-uptodate-redyellow?style=plastic" alt="python" />
+	<img src="https://img.shields.io/badge/vulnerability-0-red?style=plastic" alt="python" />
 	<a href="https://www.paypal.me/prajwalmalicybergod">
     	 <img src="https://img.shields.io/badge/buy me a-shawarma-orange.svg?maxAge=2592000&amp;style=plastic">
         </a>
