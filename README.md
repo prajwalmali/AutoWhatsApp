@@ -22,6 +22,9 @@
       </ul>
     </li>
     <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#instructions">Instructions</a>
+    </li>
+    <li>
       <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#glimpse">Glimpse</a>
     </li>
     <li>
