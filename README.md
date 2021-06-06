@@ -2,11 +2,11 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/language-python3-yellow?style=plastic" alt="python" />
-	<img src="https://img.shields.io/badge/coverage-87%25-839?style=plastic" alt="python" /> 
+	<img src="https://img.shields.io/badge/coverage-93%25-839?style=plastic" alt="python" /> 
 	<img src="https://img.shields.io/badge/maintained-yes-blue?style=plastic" alt="python" /> 
 	<img src="https://img.shields.io/badge/requirements.txt-uptodate-redyellow?style=plastic" alt="python" />
 	<a href="https://www.paypal.me/prajwalmalicybergod">
-    	 <img src="https://img.shields.io/badge/paypal-donate-orange.svg?maxAge=2592000&amp;style=plastic">
+    	 <img src="https://img.shields.io/badge/buy me a-shawarma-orange.svg?maxAge=2592000&amp;style=plastic">
         </a>
 
 <!-- TABLE OF CONTENTS -->
@@ -42,6 +42,9 @@
     </li>
     <li>
       <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#glimpse">Glimpse</a>
+    </li>
+    <li>
+      <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#faq">FAQ</a>
     </li>
     <li>
       <a href="https://github.com/PrajwalCyberGod/AutoWhatsApp#for-contributing">For Contributing</a>
@@ -98,37 +101,37 @@
   ```sh 
   pip install selenium
   ```
-  [click here](https://pypi.org/project/selenium/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/selenium/) for more details, documentation and installation guide.
 
   ```sh 
   pip install PyAutoIt
   ``` 
-  [click here](https://pypi.org/project/pyautoit/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/pyautoit/) for more details, documentation and installation guide.
 
   ```sh 
   pip install pandas
   ``` 
-  [click here](https://pypi.org/project/pandas/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/pandas/) for more details, documentation and installation guide.
   
   ```sh 
   pip install pyperclip
   ``` 
-  [click here](https://pypi.org/project/pyperclip/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/pyperclip/) for more details, documentation and installation guide.
   
   ```sh 
   pip install openpyxl
   ``` 
-  [click here](https://pypi.org/project/openpyxl/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/openpyxl/) for more details, documentation and installation guide.
   
   ```sh 
   pip install tqdm
   ``` 
-  [click here](https://pypi.org/project/tqdm/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/tqdm/) for more details, documentation and installation guide.
   
   ```sh 
   pip install termcolor
   ``` 
-  [click here](https://pypi.org/project/termcolor/) for more details, documentaion and installation guide.
+  [click here](https://pypi.org/project/termcolor/) for more details, documentation and installation guide.
 
 * ## [Browser Driver](#browser-driver)
   
@@ -232,6 +235,16 @@ python main.py
 # [Glimpse](#glimpse)
 
 <p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/AutoWhatsApp.gif" alt="prajwalcybergod" width="800" height="500" /> </p>
+
+# [FAQ](#faq)
+
+Q. Can this program be used for spamming ?
+
+A. Well yes but actually **NO !!!**
+
+Q. Does this program automatically replies on user's behalf ?
+
+A. No. It can only send messages or attachments to contacts or groups when you provide the data and message and manually run the program.
 
 # [For Contributing](#for-contributing)
 
