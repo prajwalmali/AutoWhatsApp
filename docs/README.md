@@ -235,7 +235,7 @@ python main.py
 
 # [Glimpse](#glimpse)
 
-<p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/AutoWhatsApp.gif" alt="prajwalcybergod" width="800" height="500" /> </p>
+<p align="center"> <img src="https://github.com/PrajwalCyberGod/AutoWhatsApp/blob/main/.github/media/AutoWhatsApp.gif" alt="prajwalcybergod" width="800" height="500" /> </p>
 
 # [FAQ](#faq)
 
