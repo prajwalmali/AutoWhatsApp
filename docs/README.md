@@ -93,43 +93,43 @@
 
   Run these codes to install the modules required for the program to run.
   
-  ```sh 
-  pip install -r requirements.txt 
+  ```css
+  pip install -r requirements.txt
   ``` 
 
   **OR**
 
-  ```sh 
+  ```css 
   pip install selenium
   ```
   [click here](https://pypi.org/project/selenium/) for more details, documentation and installation guide.
 
-  ```sh 
+  ```css 
   pip install PyAutoIt
   ``` 
   [click here](https://pypi.org/project/pyautoit/) for more details, documentation and installation guide.
 
-  ```sh 
+  ```css 
   pip install pandas
   ``` 
   [click here](https://pypi.org/project/pandas/) for more details, documentation and installation guide.
   
-  ```sh 
+  ```css 
   pip install pyperclip
   ``` 
   [click here](https://pypi.org/project/pyperclip/) for more details, documentation and installation guide.
   
-  ```sh 
+  ```css 
   pip install openpyxl
   ``` 
   [click here](https://pypi.org/project/openpyxl/) for more details, documentation and installation guide.
   
-  ```sh 
+  ```css 
   pip install tqdm
   ``` 
   [click here](https://pypi.org/project/tqdm/) for more details, documentation and installation guide.
   
-  ```sh 
+  ```css 
   pip install termcolor
   ``` 
   [click here](https://pypi.org/project/termcolor/) for more details, documentation and installation guide.
@@ -228,7 +228,7 @@ but be sure their names are unique that will be better and its not necessary tha
 
 3. Before running the program read all instructions and comments, do any customizations if you want to as instructed in documentation. Also check that you have installed all python modules and your browser's driver.
 4. Double click on main.py or else run the program in command prompt by running this command :-
-```sh 
+```css 
 python main.py
 ```
 5. For sending attachments provide the path for that file.
@@ -271,7 +271,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
   
 [![GitHub][myprofile-shield]][myprofile-url]
   
-[myprofile-url]: https://github.com/PrajwalCyberGod/PrajwalCyberGod
+[myprofile-url]: https://github.com/PrajwalCyberGod
  
 [myprofile-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=333
 
