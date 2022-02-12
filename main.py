@@ -4,7 +4,7 @@ AutoWhatsApp
 
 Repo Owner :- https://github.com/prajwalmali/prajwalmali
 
-LinkedIn Profile :- https://www.linkedin.com/in/prajwalmali
+ALL-IN-ONE link :- https://linktr.ee/prajwalmali
 
 '''
 
